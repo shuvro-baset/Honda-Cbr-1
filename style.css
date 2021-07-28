@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
 }
+/* --- header part start*/
 .header-section {
   background: #264653;
 }
@@ -18,4 +19,28 @@
   width: 150px;
   background: #e76f51;
   border-radius: 5px;
+}
+/* --- header part end */
+.feature-text {
+  color: #e76f51;
+  font-style: bold;
+  font-size: 10px;
+}
+.feature-text::after {
+  content: "";
+  background: #e76f51;
+  width: 60px;
+  height: 1px;
+  border-radius: 5px;
+  position: absolute;
+  bottom: -85px;
+  left: 50%;
+  transform: translate(-50%);
+}
+.feature-section img {
+  height: 245px;
+  width: 290px;
+}
+.feature-img {
+  filter: grayscale(100%);
 }
