@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
 }
+h2 {
+  font-weight: 600;
+}
 /* --- header part start*/
 .header-section {
   background: #264653;
@@ -43,4 +46,17 @@
 }
 .feature-img {
   filter: grayscale(100%);
+}
+/*   ---------  */
+.card-btn {
+  width: 150px;
+  background: #e76f51;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 18px;
+}
+.card-btn:hover {
+  background: #fff;
+  color: #e76f51;
+  border: 1px solid #e76f51;
 }
