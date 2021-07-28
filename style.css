@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header-section {
+  background: #264653;
+}
+.login-btn {
+  width: 70px;
+  background: #e76f51;
+  border-radius: 5px;
+  padding-left: 1rem !important;
+}
+.banner-text {
+  padding: 0 100px;
+}
+.purchase-modal {
+  width: 150px;
+  background: #e76f51;
+  border-radius: 5px;
+}
