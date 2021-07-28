@@ -85,3 +85,18 @@ h2 {
 .faq span {
   color: #e76f51;
 }
+/**/
+/* .footer-section {
+  background: #0b0d17;
+} */
+li {
+  list-style-type: none;
+  margin: 2px 8px;
+}
+li a {
+  text-decoration: none;
+  color: #fff;
+}
+.footer-section p {
+  margin-left: 36px;
+}
