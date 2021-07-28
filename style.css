@@ -60,3 +60,24 @@ h2 {
   color: #e76f51;
   border: 1px solid #e76f51;
 }
+/*------ */
+
+.clients-feedback span {
+  color: #e76f51;
+}
+.user-img img {
+  margin-top: 20px;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+.clients-feedback-text {
+  color: #6c6c6c;
+  font-size: 16px;
+}
+.fa-star {
+  color: #e77c40;
+}
+.clients-feedback h5 {
+  color: #23a6f0;
+}
