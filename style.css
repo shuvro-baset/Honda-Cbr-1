@@ -29,7 +29,12 @@ h2 {
   font-style: bold;
   font-size: 10px;
 }
-.feature-text::after {
+.underline {
+  width: 60px;
+  height: 1px;
+  background: #e76f51;
+}
+/* .feature-text::after {
   content: "";
   background: #e76f51;
   width: 60px;
@@ -39,7 +44,7 @@ h2 {
   bottom: -85px;
   left: 50%;
   transform: translate(-50%);
-}
+} */
 .feature-section img {
   height: 245px;
   width: 290px;
