@@ -86,14 +86,32 @@ h2 {
   color: #e76f51;
 }
 /**/
-/* .footer-section {
-  background: #0b0d17;
-} */
+.contact-us span {
+  color: #e76f51;
+}
+.search-section {
+  background: #264653;
+}
+.search-option select {
+  margin: 10px 20px;
+  height: 40px;
+  width: 150px;
+  padding: 0 10px;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+.search-btn {
+  width: 150px;
+  height: 45px;
+  margin: 10px 20px;
+  padding: 0 10px;
+}
+/**/
 li {
   list-style-type: none;
   margin: 2px 8px;
 }
-li a {
+a {
   text-decoration: none;
   color: #fff;
 }
